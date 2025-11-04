@@ -4,4 +4,4 @@ http://thewestwindproject.com/
  
 ##Demo site:
 
-http://thewestwindproject.com/xsracing/stage/
+[http://thewestwindproject.com/racing](https://thewestwindproject.com/racing/)
